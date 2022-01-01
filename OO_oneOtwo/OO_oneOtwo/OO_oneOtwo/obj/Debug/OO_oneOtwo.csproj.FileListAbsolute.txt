@@ -1,0 +1,7 @@
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\inicio_OO\OO_oneOtwo\OO_oneOtwo\OO_oneOtwo\bin\Debug\OO_oneOtwo.exe.config
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\inicio_OO\OO_oneOtwo\OO_oneOtwo\OO_oneOtwo\bin\Debug\OO_oneOtwo.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\inicio_OO\OO_oneOtwo\OO_oneOtwo\OO_oneOtwo\bin\Debug\OO_oneOtwo.pdb
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\inicio_OO\OO_oneOtwo\OO_oneOtwo\OO_oneOtwo\obj\Debug\OO_oneOtwo.csproj.AssemblyReference.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\inicio_OO\OO_oneOtwo\OO_oneOtwo\OO_oneOtwo\obj\Debug\OO_oneOtwo.csproj.CoreCompileInputs.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\inicio_OO\OO_oneOtwo\OO_oneOtwo\OO_oneOtwo\obj\Debug\OO_oneOtwo.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\inicio_OO\OO_oneOtwo\OO_oneOtwo\OO_oneOtwo\obj\Debug\OO_oneOtwo.pdb
